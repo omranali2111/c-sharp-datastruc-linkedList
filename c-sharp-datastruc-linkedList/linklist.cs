@@ -29,6 +29,41 @@ namespace c_sharp_datastruc_linkedList
             }
 
         }
+
+        public void Remove(int data)
+        {
+            if (head == null)
+            {
+                Console.WriteLine("where is no node");
+                return;
+            }
+            else
+            { 
+                if(head.data== data)
+                {
+                    head = head.Next;
+                }
+                else
+                {
+                    Node currentNode = head;
+                    Node prevNode = null;
+                    while (currentNode.Next != null&& currentNode.data!=data)
+                    {
+                        prevNode = currentNode;
+                        currentNode = currentNode.Next;
+                    }
+                    if(currentNode==null)
+                    {
+                        Console.WriteLine("data not found");
+                        return;
+                        
+                    }
+                    prevNode.Next = currentNode.Next;
+                }
+            }
+           
+
+        }
         public void Print()
         {
             Node currentNode = head;
