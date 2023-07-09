@@ -1,0 +1,15 @@
+C:\Users\ict\Desktop\code-TRA\c-sharp-datastruc-linkedList\c-sharp-datastruc-linkedList\bin\Debug\net6.0\c-sharp-datastruc-linkedList.exe
+C:\Users\ict\Desktop\code-TRA\c-sharp-datastruc-linkedList\c-sharp-datastruc-linkedList\bin\Debug\net6.0\c-sharp-datastruc-linkedList.deps.json
+C:\Users\ict\Desktop\code-TRA\c-sharp-datastruc-linkedList\c-sharp-datastruc-linkedList\bin\Debug\net6.0\c-sharp-datastruc-linkedList.runtimeconfig.json
+C:\Users\ict\Desktop\code-TRA\c-sharp-datastruc-linkedList\c-sharp-datastruc-linkedList\bin\Debug\net6.0\c-sharp-datastruc-linkedList.dll
+C:\Users\ict\Desktop\code-TRA\c-sharp-datastruc-linkedList\c-sharp-datastruc-linkedList\bin\Debug\net6.0\c-sharp-datastruc-linkedList.pdb
+C:\Users\ict\Desktop\code-TRA\c-sharp-datastruc-linkedList\c-sharp-datastruc-linkedList\obj\Debug\net6.0\c-sharp-datastruc-linkedList.csproj.AssemblyReference.cache
+C:\Users\ict\Desktop\code-TRA\c-sharp-datastruc-linkedList\c-sharp-datastruc-linkedList\obj\Debug\net6.0\c-sharp-datastruc-linkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ict\Desktop\code-TRA\c-sharp-datastruc-linkedList\c-sharp-datastruc-linkedList\obj\Debug\net6.0\c-sharp-datastruc-linkedList.AssemblyInfoInputs.cache
+C:\Users\ict\Desktop\code-TRA\c-sharp-datastruc-linkedList\c-sharp-datastruc-linkedList\obj\Debug\net6.0\c-sharp-datastruc-linkedList.AssemblyInfo.cs
+C:\Users\ict\Desktop\code-TRA\c-sharp-datastruc-linkedList\c-sharp-datastruc-linkedList\obj\Debug\net6.0\c-sharp-datastruc-linkedList.csproj.CoreCompileInputs.cache
+C:\Users\ict\Desktop\code-TRA\c-sharp-datastruc-linkedList\c-sharp-datastruc-linkedList\obj\Debug\net6.0\c-sharp-datastruc-linkedList.dll
+C:\Users\ict\Desktop\code-TRA\c-sharp-datastruc-linkedList\c-sharp-datastruc-linkedList\obj\Debug\net6.0\refint\c-sharp-datastruc-linkedList.dll
+C:\Users\ict\Desktop\code-TRA\c-sharp-datastruc-linkedList\c-sharp-datastruc-linkedList\obj\Debug\net6.0\c-sharp-datastruc-linkedList.pdb
+C:\Users\ict\Desktop\code-TRA\c-sharp-datastruc-linkedList\c-sharp-datastruc-linkedList\obj\Debug\net6.0\c-sharp-datastruc-linkedList.genruntimeconfig.cache
+C:\Users\ict\Desktop\code-TRA\c-sharp-datastruc-linkedList\c-sharp-datastruc-linkedList\obj\Debug\net6.0\ref\c-sharp-datastruc-linkedList.dll
